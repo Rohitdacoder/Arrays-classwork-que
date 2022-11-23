@@ -1,0 +1,39 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#f1bf6a",
+        "activityBar.background": "#f1bf6a",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#0e9261",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#15202b99",
+        "editorGroup.border": "#f1bf6a",
+        "panel.border": "#f1bf6a",
+        "sash.hoverBorder": "#f1bf6a",
+        "sideBar.border": "#f1bf6a",
+        "statusBar.background": "#ecab3c",
+        "statusBar.border": "#ecab3c",
+        "statusBar.debuggingBackground": "#3c7dec",
+        "statusBar.debuggingBorder": "#3c7dec",
+        "statusBar.debuggingForeground": "#e7e7e7",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#df9516",
+        "statusBarItem.remoteBackground": "#ecab3c",
+        "statusBarItem.remoteForeground": "#15202b",
+        "tab.activeBorder": "#f1bf6a",
+        "titleBar.activeBackground": "#ecab3c",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.border": "#ecab3c",
+        "titleBar.inactiveBackground": "#ecab3c99",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#ecab3c",
+    "cSpell.words": [
+        "clrscr",
+        "evencount",
+        "oddcount"
+    ],
+    "files.associations": {
+        "cstdio": "c"
+    }
+}
